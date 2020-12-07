@@ -8,3 +8,4 @@ ML - Learning Phase
      MLR https://gist.github.com/ashwath007/c895883d26a289cdedbd69001b0dc35f.js
  5. Linear Regression in 2 min https://srivicky2000.medium.com/simple-linear-regression-in-2-min-acaf2f523369
  6. R^2 in Regression https://srivicky2000.medium.com/what-is-r%C2%B2-in-regression-b62bb3ec848f
+ 7. SVM- SVR https://srivicky2000.medium.com/svm-support-vector-machine-fa897f1e5187
