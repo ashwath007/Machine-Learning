@@ -9,3 +9,9 @@ ML - Learning Phase
  5. Linear Regression in 2 min https://srivicky2000.medium.com/simple-linear-regression-in-2-min-acaf2f523369
  6. R^2 in Regression https://srivicky2000.medium.com/what-is-r%C2%B2-in-regression-b62bb3ec848f
  7. SVM- SVR https://srivicky2000.medium.com/svm-support-vector-machine-fa897f1e5187
+ 
+ 
+ 
+ towardsdatascience
+ 
+ 1. Understanding— Logistic Regression within 5min 🐱‍🏍 - https://srivicky2000.medium.com/understand-logistic-regression-within-5min-84c329bff97
