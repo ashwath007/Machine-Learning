@@ -10,6 +10,7 @@ ML - Learning Phase
  6. R^2 in Regression https://srivicky2000.medium.com/what-is-r%C2%B2-in-regression-b62bb3ec848f
  7. SVM- SVR https://srivicky2000.medium.com/svm-support-vector-machine-fa897f1e5187
  
+ 8. SVM - SVC Support Vector Classification https://srivicky2000.medium.com/svm-support-vector-machine-2a82fd8d15bf
  
  
  towardsdatascience
