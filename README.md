@@ -12,7 +12,7 @@ ML - Learning Phase
  
  8. SVM - SVC Support Vector Classification https://srivicky2000.medium.com/svm-support-vector-machine-2a82fd8d15bf
  9. Gradient Descent and Normal Equation https://dj-sri-vigneshwar.medium.com/normal-equation-or-gradient-descent-e9d9b9345879
- 
+ 10. The math behind Naive Bayes https://dj-sri-vigneshwar.medium.com/the-math-behind-naive-bayes-4e5791ec6f22
  towardsdatascience
  
  1. Understanding— Logistic Regression within 5min 🐱‍🏍 - https://srivicky2000.medium.com/understand-logistic-regression-within-5min-84c329bff97
