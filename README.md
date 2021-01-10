@@ -11,7 +11,7 @@ ML - Learning Phase
  7. SVM- SVR https://srivicky2000.medium.com/svm-support-vector-machine-fa897f1e5187
  
  8. SVM - SVC Support Vector Classification https://srivicky2000.medium.com/svm-support-vector-machine-2a82fd8d15bf
- 
+ 9. Gradient Descent and Normal Equation https://dj-sri-vigneshwar.medium.com/normal-equation-or-gradient-descent-e9d9b9345879
  
  towardsdatascience
  
