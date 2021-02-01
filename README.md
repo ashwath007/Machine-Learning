@@ -1,4 +1,8 @@
-# Machine-Learning
+# Books🛸
+
+RoadMap: https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva 
+
+# Machine-Learning🐱‍🏍
 ML - Learning Phase
 
  1. Data Preprocessing https://srivicky2000.medium.com/data-preprocessing-in-python-e6c61b051dc9 <br/>
