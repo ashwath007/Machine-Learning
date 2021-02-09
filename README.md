@@ -1,3 +1,13 @@
+## Datasets
+
+ * EARTHDATA            - https://earthdata.nasa.gov/
+ * Dataset Search       - https://datasetsearch.research.google.com/
+ * Crime Data Explorer  - https://crime-data-explorer.fr.cloud.gov/
+ * Data World           - https://data.world/
+ * CERN                 - https://home.cern/
+ * Lion Bridge          - https://www.lionbridge.com/
+ * Honorable Mentions   - (AwesomeData) - https://github.com/awesomedata
+
 # Books🛸
 
 RoadMap: https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva 
