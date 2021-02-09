@@ -4,6 +4,8 @@
  * Dataset Search       - https://datasetsearch.research.google.com/
  * Crime Data Explorer  - https://crime-data-explorer.fr.cloud.gov/
  * Data World           - https://data.world/
+ * CERN                 - https://home.cern/
+ * Lion Bridge          - https://www.lionbridge.com/
 
 # Books🛸
 
