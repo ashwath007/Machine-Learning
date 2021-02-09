@@ -6,6 +6,7 @@
  * Data World           - https://data.world/
  * CERN                 - https://home.cern/
  * Lion Bridge          - https://www.lionbridge.com/
+ * Honorable Mentions   - (AwesomeData) - https://github.com/awesomedata
 
 # Books🛸
 
