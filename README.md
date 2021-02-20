@@ -6,6 +6,8 @@
   * A Neural Network in 13 lines of Python (Part 2 - Gradient Descent) - https://iamtrask.github.io/2015/07/27/python-network-part2/
   * Machine Learning Crash Course - https://ml.berkeley.edu/blog/posts/crash-course/part-3/
   * Understanding CNN with a mathematical model - https://www.sciencedirect.com/science/article/abs/pii/S1047320316302267
+  * CNN Stufy guide - https://statquest.org/studyguides/
+  * Evaluation of pooling operations in convolutional architectures for object recognition - https://link.springer.com/chapter/10.1007/978-3-642-15825-4_10
 
 
 ## Datasets
