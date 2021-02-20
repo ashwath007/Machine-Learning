@@ -3,6 +3,8 @@
   * CNN - https://cs.nju.edu.cn/wujx/paper/CNN.pdf
   * CNN for Visual Recognition - https://cs231n.github.io/optimization-2/
   * Backpropagation - http://neuralnetworksanddeeplearning.com/chap2.html
+  * A Neural Network in 13 lines of Python (Part 2 - Gradient Descent) - https://iamtrask.github.io/2015/07/27/python-network-part2/
+  * Machine Learning Crash Course - https://ml.berkeley.edu/blog/posts/crash-course/part-3/
 
 
 ## Datasets
