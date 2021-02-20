@@ -1,7 +1,8 @@
-## Deep Learning
+## Deep Learning 🧛‍♂️ 
  
   * CNN - https://cs.nju.edu.cn/wujx/paper/CNN.pdf
-  * 
+  * CNN for Visual Recognition - https://cs231n.github.io/optimization-2/
+  * Backpropagation - http://neuralnetworksanddeeplearning.com/chap2.html
 
 
 ## Datasets
