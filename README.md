@@ -8,6 +8,7 @@
   * Understanding CNN with a mathematical model - https://www.sciencedirect.com/science/article/abs/pii/S1047320316302267
   * CNN Stufy guide - https://statquest.org/studyguides/
   * Evaluation of pooling operations in convolutional architectures for object recognition - https://link.springer.com/chapter/10.1007/978-3-642-15825-4_10
+  * CNN 2D Viosualization - https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html
 
 
 ## Datasets
