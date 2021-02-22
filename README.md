@@ -10,6 +10,7 @@
   * Evaluation of pooling operations in convolutional architectures for object recognition - https://link.springer.com/chapter/10.1007/978-3-642-15825-4_10
   * CNN 2D Viosualization - https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html
   * The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3) - https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+  * A Friendly Introduction to Cross-Entropy Loss - https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/
 
 
 ## Datasets
