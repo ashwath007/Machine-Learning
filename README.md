@@ -12,6 +12,8 @@
   * The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3) - https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
   * A Friendly Introduction to Cross-Entropy Loss - https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/
   * Softmax classification with cross-entropy - https://peterroelants.github.io/posts/cross-entropy-softmax/
+  * The Ultimate Guide to Convolutional Neural Networks (CNN) - https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn
+
 
 
 ## Datasets
