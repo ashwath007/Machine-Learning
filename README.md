@@ -48,3 +48,20 @@ ML - Learning Phase
  towardsdatascience
  
  1. Understanding— Logistic Regression within 5min 🐱‍🏍 - https://srivicky2000.medium.com/understand-logistic-regression-within-5min-84c329bff97
+
+
+Financial Aid
+
+Why are you applying for Financial Aid?
+
+Hello, my name is Sri Vigneshwar, and I'm from India. I'm applying for Financial Aid for the course Machine Learning because I do not have any source of income right now and I don't earn enough money and I can't afford the full tuition at this time of my life and career. The Tuition fee for my college itself is more, and my parents need to struggle to pay it. Receiving Financial aid for this course will help me get a good job or get an internship. It's my dream to get a job in Big tech companies, Machine Learning is a really interesting field.  and receiving financial aid will allow me to focus on my studies and by taking it to allow me to take off a paid internship and can take another course in the machine learning path. As of now, I have only Time and Interest in the subject. This course will give me great knowledge and support my career.
+
+How will taking this course help you achieve your career goals?
+
+I am studying Computer Science Engineering, I have a solid background in Math and Programming, and I love problem-solving. And I have a keen interest in ML and Deep Learning. This course will provide in-depth knowledge and programming skill to pursue in the Machine Learning path. This course certificate will increase my chances to get my first job or internship. 
+
+I am a hard-working student, who learns every day and upgrades his skill, This course will bring a difference in my life. I wanted to be an expert in Machine Learning. I believe this course will be the foundation for this course.
+
+If you answered no, please help us understand why.
+
+Basically, I don't have any source of income now, My parents took an educational loan for my engineering. So paying a loan is difficult and I will be an extra burden for my parents. I really needed this course, By providing this course for free will change my life and my career. I hope you can understand. Thank you
