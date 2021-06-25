@@ -65,3 +65,11 @@ I am a hard-working student, who learns every day and upgrades his skill, This c
 If you answered no, please help us understand why.
 
 Basically, I don't have any source of income now, My parents took an educational loan for my engineering. So paying a loan is difficult and I will be an extra burden for my parents. I really needed this course, By providing this course for free will change my life and my career. I hope you can understand. Thank you
+
+
+
+
+
+I am studying Computer Science Engineering, I have a solid background in Math and Programming, and I love problem-solving. And I have a keen interest in ML and Deep Learning. This course will provide in-depth knowledge and programming skill to pursue in the Machine Learning path. This course certificate will increase my chances to get my first job or internship. I always wanted to be a part of Deep Learning Research and Development, This course will give me everything for that. 
+
+I am a hard-working student, who learns every day and upgrades his skill, This course will bring a difference in my life. I wanted to be an expert in Machine Learning. I believe this course will be the foundation for this course.
