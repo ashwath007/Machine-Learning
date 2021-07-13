@@ -50,6 +50,13 @@ ML - Learning Phase
  1. Understanding— Logistic Regression within 5min 🐱‍🏍 - https://srivicky2000.medium.com/understand-logistic-regression-within-5min-84c329bff97
 
 
+# Deep Learning  - Coursera
+
+* Week 2 - 
+         https://github.com/amanchadha/coursera-deep-learning-specialization/blob/master/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb 
+       
+
+
 Financial Aid
 
 Why are you applying for Financial Aid?
