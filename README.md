@@ -1,3 +1,5 @@
+![stack Overflow](https://machinelearningmastery.com/wp-content/uploads/2021/03/MachineLearningAlgorithms.jpg?__s=fzctgd7m4mfcsmpp3y8n&utm_source=drip&utm_medium=email&utm_campaign=MMLA+Mini-Course&utm_content=Machine+Learning+Algorithms+Mind-Map+and+Mini-Course)
+
 ## Deep Learning 🧛‍♂️ 
  
   * CNN - https://cs.nju.edu.cn/wujx/paper/CNN.pdf
