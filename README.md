@@ -3,6 +3,9 @@
 ## AutoTuner 👾
 GenAI Infused Machine Learning Library for Easy Preprocessing, Training and Testing
 
+~ !pip install autotuner
+
+
 ## Deep Learning 🧛‍♂️ 
  
   * CNN - https://cs.nju.edu.cn/wujx/paper/CNN.pdf
