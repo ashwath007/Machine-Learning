@@ -22,7 +22,7 @@ GenAI Infused Machine Learning Library for Easy Preprocessing, Training and Test
   * Softmax classification with cross-entropy - https://peterroelants.github.io/posts/cross-entropy-softmax/
   * The Ultimate Guide to Convolutional Neural Networks (CNN) - https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn
 
-
+## Models (adding Qunt)
 
 ## Datasets
 
