@@ -23,6 +23,7 @@ GenAI Infused Machine Learning Library for Easy Preprocessing, Training and Test
   * The Ultimate Guide to Convolutional Neural Networks (CNN) - https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn
 
 ## Models (adding Qunt)
+  * QwQ 27 B
 
 ## Datasets
 
