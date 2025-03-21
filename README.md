@@ -4,6 +4,7 @@
 GenAI Infused Machine Learning Library for Easy Preprocessing, Training and Testing
 
 ~ !pip install autotuner
+~ !pip install automaker
 
 ## Installation
 !pip install autotuner
