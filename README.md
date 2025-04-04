@@ -31,6 +31,7 @@ GenAI Infused Machine Learning Library for Easy Preprocessing, Training and Test
 
 ## Models (adding Qunt)
   * QwQ 27 B
+  * QwQ 28 Billion (8bit Quant)
 
 
 ## Analysis
