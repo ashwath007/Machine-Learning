@@ -32,6 +32,10 @@ GenAI Infused Machine Learning Library for Easy Preprocessing, Training and Test
 ## Models (adding Qunt)
   * QwQ 27 B
 
+
+## Analysis
+* Report Gen (2024)
+
 ## Datasets
 
  * EARTHDATA            - https://earthdata.nasa.gov/
