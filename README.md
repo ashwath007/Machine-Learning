@@ -33,6 +33,8 @@ GenAI Infused Machine Learning Library for Easy Preprocessing, Training and Test
   * QwQ 27 B
   * QwQ 28 Billion (8bit Quant)
 
+## Llama 4
+ * Llama 4 - 1T prams
 
 ## Analysis
 * Report Gen (2024)
