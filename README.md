@@ -13,6 +13,8 @@ GenAI Infused Machine Learning Library for Easy Preprocessing, Training and Test
 ## Deep Integrations
 !pip install deep-analysis
 
+June 27th
+
 ## Deep Learning 🧛‍♂️ 
  
   * CNN - https://cs.nju.edu.cn/wujx/paper/CNN.pdf
