@@ -13,7 +13,8 @@ GenAI Infused Machine Learning Library for Easy Preprocessing, Training and Test
 ## Deep Integrations
 !pip install deep-analysis
 
-June 27th
+The Tray Project:-
+All List of Vision to Action Models
 
 ## Deep Learning 🧛‍♂️ 
  
